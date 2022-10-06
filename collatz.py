@@ -1,3 +1,4 @@
+#This code simulates collatz conjecture for whole number inputs
 def collatz(i):
     try:
         i = int(i)
