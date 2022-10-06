@@ -1,4 +1,4 @@
-# Conway's Game of Life
+# Conway's Game of Life, I didn't make this
 import random, time, copy
 WIDTH = 10
 HEIGHT = 10
