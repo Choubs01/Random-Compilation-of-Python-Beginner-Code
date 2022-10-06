@@ -1,4 +1,4 @@
-num = input("Enter a number, and for all natural numbers below it I will check if it's divisible by 3 or 5:")
+num = input("Enter a number, and for all natural numbers below it I will print it if it's divisible by 3 or 5:")
 
 x = 0
 num = int(num)
